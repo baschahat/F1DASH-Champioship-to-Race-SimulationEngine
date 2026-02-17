@@ -1,6 +1,16 @@
-# F1DASH:
-# Compressing a full Formula 1 season into a single mathematically modelled race simulation
-# 🏁 Formula 1 Race Simulation & Visual Analytics System
+# 🏁 F1DASH
+What If the F1 2025 Season Was One Race?
+A Python-based motorsport simulation & visual analytics project that reimagines an entire Formula 1 championship season as a single continuous race.
+Instead of replaying a Grand Prix, this system transforms 24 rounds of cumulative championship points into:
+✔ Continuous race gaps
+✔ Dynamic track positions
+✔ Overtake behaviour
+✔ DRS activation logic
+✔ Broadcast-style race visuals
+
+---
+
+## Formula 1 Race Simulation & Visual Analytics System
 
 A Python-based motorsport analytics and visualization project integrating mathematical race modeling, FastF1 telemetry analysis, track geometry reconstruction, and broadcast-style rendering.
 
